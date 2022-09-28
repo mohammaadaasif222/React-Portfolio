@@ -4,15 +4,15 @@ import FileDownload from 'js-file-download'
 
 function About(){
 
-    const download =(e)=>{
-//    e.preventDefault();
+const download =(e)=>{
+   e.preventDefault();
    Axios({
      url:"http://localhost:4000",
      method : "GET",
      responseType:"blob",
    }).then((res)=>{
     FileDownload(res.data,"resume.pdf")
-   })
+   }) 
     }
     return <>
     <section className="about full-screen d-lg-flex justify-content-center align-items-center" id="about">
