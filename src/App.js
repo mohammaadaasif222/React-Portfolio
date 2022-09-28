@@ -7,17 +7,15 @@ import React from 'react';
 import './App.css';
 
 
-
 function App() {
 
   return (
    <React.StrictMode>
     <Navbar/>
     <About/>
-    <Education/>
     <Contact/>
     <Footer/>
-   </React.StrictMode>
+   </React.StrictMode> 
   );
 }
 
