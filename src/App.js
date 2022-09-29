@@ -13,7 +13,6 @@ function App() {
    <React.StrictMode>
     <Navbar/>
     <About/>
-    <Education/>
     <Contact/>
     <Footer/>
    </React.StrictMode> 
