@@ -1,4 +1,4 @@
-import Navbar from './components/Navbar';
+import NavBar from './components/NavBar';
 import About from './components/About';
 import Education from './components/Education';
 import Footer from './components/Footer';
@@ -11,7 +11,7 @@ function App() {
 
   return (
    <React.StrictMode>
-    <Navbar/>
+    <NavBar/>
     <About/>
     <Education/>
     <Contact/>
