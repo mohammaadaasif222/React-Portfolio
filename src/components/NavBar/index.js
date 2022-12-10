@@ -24,7 +24,7 @@ function NavBar() {
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav className="mx-auto my-2 my-lg-0" navbarScroll>
-            <Nav.Link  href="#action1">About</Nav.Link>
+            <Nav.Link  href="#about">About</Nav.Link>
             <NavDropdown title="Projects" id="navbarScrollingDropdown">
               <NavDropdown.Item
                 href="https://womens-clothing.netlify.app"
@@ -57,8 +57,8 @@ function NavBar() {
                 Calculator
               </NavDropdown.Item>
             </NavDropdown>
-            <Nav.Link href="#action2">Resume</Nav.Link>
-            <Nav.Link href="#action2">Contact</Nav.Link>
+            <Nav.Link href="#">Resume</Nav.Link>
+            <Nav.Link href="#contact">Contact</Nav.Link>
           </Nav>
           <ul className="navbar-nav ml-lg-auto">
             <div className="ml-lg-4">

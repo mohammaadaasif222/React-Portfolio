@@ -23,15 +23,22 @@ function Education() {
                       <small>NewTon School</small>
                     </h3>
                     <p>
-                      Learing Data structures and algorithms
-                      with java also full stack technologies such as html, CSS ,
-                      bootstrap, JavaScript, node.js, react.js , express.js ,
-                      mongoDB,
+                      software development fundamentals, Java and data
+                      structures, GIT to manage version control systems, and
+                      Maven to manage project dependencies. back-end
+                      technologies by implementing knowledge and relational
+                      database. Also connect databases . And work with RESTful
+                      web services. UI skills with advanced HTML and CSS and
+                      build 3 applications with React framework. Build
+                      real-world websites and applications using the front-end
+                      stack technologies such as HTML, CSS, JavaScript, and
+                      React. Handle diverse data types and manage your
+                      applications efficiently using MongoDB.,
                     </p>
                   </div>
                 </div>
 
-                <div className="timeline-wrapper">
+                {/* <div className="timeline-wrapper">
                   <div className="timeline-yr">
                     <span>2021</span>
                   </div>
@@ -43,13 +50,13 @@ function Education() {
                     <p>
                       I have worked there as web developer and worked on
                       business word press website. I made website attractive
-                      with using current best practices in web development. 
-                      I created new pages for stories with unique design.
+                      with using current best practices in web development. I
+                      created new pages for stories with unique design.
                     </p>
                   </div>
-                </div>
+                </div> */}
 
-                <div className="timeline-wrapper">
+                {/* <div className="timeline-wrapper">
                   <div className="timeline-yr">
                     <span>2021</span>
                   </div>
@@ -59,15 +66,16 @@ function Education() {
                     </h3>
                     <p>
                       I have worked on next .js build full dynamic web app there
-                      in the web app we have beautiful UI and features. We
-                      have multiuser platform where anyone can create account
-                      with email and password , also we can forgot password
-                      if you are already a user. and also have a admin dashboard.
-                      Admin have access to create , update , delete, post and and publish it.
-                      So all user can read the new post and also can comment on the post.
+                      in the web app we have beautiful UI and features. We have
+                      multiuser platform where anyone can create account with
+                      email and password , also we can forgot password if you
+                      are already a user. and also have a admin dashboard. Admin
+                      have access to create , update , delete, post and and
+                      publish it. So all user can read the new post and also can
+                      comment on the post.
                     </p>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
 
