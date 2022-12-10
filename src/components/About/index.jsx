@@ -19,8 +19,8 @@ function About() {
                   <span className="mr-2">Hey folks, I'm</span>
                   <div className="animated-info">
                     <span className="animated-item">Mohamamd Aasif</span>
-                    <span className="animated-item">Software Developer</span>
-                    <span className="animated-item">Web Developer</span>
+                    <span className="animated-item">Software Engineer</span>
+                    <span className="animated-item">Full-Stack Developer</span>
                   </div>
                 </h1>
 
