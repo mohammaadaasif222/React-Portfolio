@@ -32,7 +32,7 @@ function About() {
 
                 <div className="custom-btn-group mt-4">
                   <a
-                    href="#"
+                    href="https://drive.google.com/file/d/1ZmgKdeHvf668rt0jhzSz6PYFiHG0EO2w/view?usp=sharing" target='_blank'
                     
                     className="btn mr-lg-2 custom-btn"
                   >

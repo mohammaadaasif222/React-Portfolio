@@ -114,6 +114,21 @@ function Education() {
                     </p>
                   </div>
                 </div>
+                {/* <div className="timeline-wrapper">
+                  <div className="timeline-yr">
+                    <span>2017</span>
+                  </div>
+                  <div className="timeline-info">
+                    <h3>
+                      <span>High School</span>
+                      <small>Science</small>
+                    </h3>
+                    <p>
+                      Branch of mathematics that substitutes letters for numbers
+                      and uses simplification techniques to solve equations
+                    </p>
+                  </div>
+                </div> */}
               </div>
             </div>
           </div>
