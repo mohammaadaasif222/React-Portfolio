@@ -106,7 +106,7 @@ function Education() {
                   <div className="timeline-info">
                     <h3>
                       <span>Intermediate</span>
-                      <small>State Board</small>
+                      <small>Science</small>
                     </h3>
                     <p>
                       Branch of mathematics that substitutes letters for numbers
