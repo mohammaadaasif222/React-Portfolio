@@ -2,7 +2,7 @@ import NavBar from './components/NavBar';
 import About from './components/About';
 import Education from './components/Education';
 import Footer from './components/Footer';
-import Contact from './components/Contact/Index';
+import Contact from './components/Contact';
 import React from 'react';
 import './App.css';
 
